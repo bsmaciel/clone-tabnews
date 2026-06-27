@@ -1,23 +1,15 @@
 function Home() {
   return (
-    <>
-      <h1>Oi Princesa!</h1>
-      <p>Se você está vendo essa página... dá um sorriso pra mim. :)</p>
+    <div>
+      <h1>Oi, filhão!</h1>
       <p>
-        Ah! Quando o seu Ateliê estiver bombando, imagina quem é que vai fazer a
-        página do seu e-comerce?!!!
+        Tudo bem? Olha que legal. Esse conteúdo está no meu domínio. Sei que não
+        é grandes coisas, mas caminhei bastante para chegar até aqui.
       </p>
+      <p>Avise quando visualizar a página.</p>
       <h3>Te amo!</h3>
-    </>
+    </div>
   );
-}
-
-function teste() {
-  console.log("teste");
-}
-
-function teste2() {
-  console.log("identação errada");
 }
 
 export default Home;
